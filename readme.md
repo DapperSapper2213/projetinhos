@@ -1,0 +1,1 @@
+This is my project folder. Where most of my projects from 2025 onwards are going. Feel free to test them out
